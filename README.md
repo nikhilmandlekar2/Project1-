@@ -1,4 +1,4 @@
 # Project1-
-This is my forst Git repository
+This is my first Git repository
 <br>
 Author - Nikki Mandlekar 
